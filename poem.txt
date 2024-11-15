@@ -8,4 +8,4 @@ Képeket rajzol
 a homokba.
 
 Könnycseppet
-a fáradt arcokra.
+a fáradt arcokra###
